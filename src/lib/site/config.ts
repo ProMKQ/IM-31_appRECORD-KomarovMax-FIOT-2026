@@ -34,5 +34,5 @@ export function performerTitleLine(student: SiteConfig['student']): string {
         ? 'Студент(ка)'
         : 'Студент';
 
-  return `Виконавець: ${noun} групи ${student.group} — ${student.fullName}`;
+  return `Виконавець: ${noun} групи ${student.group} - ${student.fullName}`;
 }

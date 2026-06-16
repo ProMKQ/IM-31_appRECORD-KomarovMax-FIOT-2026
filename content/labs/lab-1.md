@@ -6,7 +6,10 @@
 
 ### Посилання на виконані завдання
 
-- Репозиторій вебзастосунку (GitHub): [посилання](https://github.com/ProMKQ/IM-31_appRECORD-KomarovMax-FIOT-2026)
+- Репозиторій вебзастосунку (GitHub): [посилання](https://github.com/ProMKQ/web-dev-labs)
+- Власний вебзастосунок (Жива сторінка): [посилання](https://promkq.github.io/web-dev-labs/)
+- Репозиторій звітного HTML-документа (GitHub): [посилання](https://github.com/ProMKQ/IM-31_appRECORD-KomarovMax-FIOT-2026)
+- Звітний HTML-документ (Жива сторінка): [посилання](https://promkq.github.io/IM-31_appRECORD-KomarovMax-FIOT-2026/)
 
 ---
 

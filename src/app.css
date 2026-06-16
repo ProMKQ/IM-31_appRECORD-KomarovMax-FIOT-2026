@@ -100,7 +100,6 @@ code {
 
 .cover-photo {
   width: 120px;
-  height: 200px;
   border-radius: 18px;
   overflow: hidden;
 
@@ -114,8 +113,8 @@ code {
 
 .cover-photo img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   object-position: top center;
   display: block;
 }
