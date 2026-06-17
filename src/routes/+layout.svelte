@@ -60,8 +60,6 @@
   </main>
 
   <footer class="footer">
-    <a class="footer-link" href={authorHref} target="_blank">PLIFFDAX</a>
-    <span class="footer-sep">·</span>
     <a class="footer-link" href={homeHref}>На головну</a>
   </footer>
 </div>
